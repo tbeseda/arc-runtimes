@@ -1,0 +1,12 @@
+.DS_Store
+
+vendor/
+
+# ruby
+Gemfile.lock
+.bundle/
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class

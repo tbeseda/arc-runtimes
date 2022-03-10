@@ -1,0 +1,3 @@
+class Authenticate
+
+end
