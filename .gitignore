@@ -1,12 +1,18 @@
 .DS_Store
+/sam.*
 
-vendor/
+# node
+node_modules/
 
 # ruby
 Gemfile.lock
 .bundle/
+vendor/
 
 # python
 __pycache__/
 *.py[cod]
 *$py.class
+
+# go
+vendor/

@@ -1,10 +1,11 @@
 @app
-arc-shared-ruby-and-python
-
-@shared
-
-@views
+arc-runtimes
 
 @http
-get /ruby
+get / # node
+# get /deno
+# get /dotnet
+get /go
+# get /java
 get /python
+get /ruby
